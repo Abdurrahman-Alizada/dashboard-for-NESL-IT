@@ -1,0 +1,9 @@
+.dashboard_logo {
+    letter-spacing: 2.2px;
+    font-size: 24px;
+    margin: 0 40px;
+    color: #5bad63;
+    font-weight: 700;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none !important;
+}
